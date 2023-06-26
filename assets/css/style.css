@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+
+.img_border{
+    max-width: 80px;
+    max-height: 100px;
+}
+
+img{
+    max-width: 200px;
+    max-height: 100px;
+    padding: 1%;
+}
+
+.btn-primary{
+    margin: 2%;
+}
+
+.desafio{
+    text-align: center;
+    padding: 2%;
+
+}
+
+.img_border{
+    padding: 1%;
+}
